@@ -1,0 +1,15 @@
+
+{
+	"plugin": {
+		"name": "msdn",
+		"type": ["ui"],
+		"api": "python2",
+		"description": "Search MSDN api reference",
+		"longdescription": "TODO",
+		"license": {
+			"name": "MIT",
+		},
+		"version": "0.0.1",
+		"author": "Benedikt Schmotzle",
+	}
+}
