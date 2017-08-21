@@ -2,7 +2,6 @@ from binaryninja import *
 import requests
 import json
 from bs4 import BeautifulSoup
-import epdb
 
 def getSoupFrom(url):
     r = requests.get(url)
